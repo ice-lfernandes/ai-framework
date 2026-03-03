@@ -1,4 +1,4 @@
-# 🤖 AI Framework
+# 🤖 AI Commons
 
 > A curated collection of AI instructions, prompt templates, architecture decision guides, and project setup patterns — available in **English** and **Português (BR)**.
 
