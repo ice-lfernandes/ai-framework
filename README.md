@@ -20,7 +20,7 @@ Whether you're starting a new microservice or evaluating architectural patterns,
 ## 🗂️ Repository Structure
 
 ```
-ai-framework/
+ai-commons/
 ├── english/                          # Content in English
 │   └── architecture/
 │       └── code/                     # Code architecture instructions & guides
